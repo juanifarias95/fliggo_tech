@@ -20,4 +20,3 @@ Bank Credit Data
 
 * Name: Juani Farias
 * Email: frsjuanignacio@gmail.com
-# fliggo_tech
